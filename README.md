@@ -29,6 +29,7 @@
 ## Installation
 
 ```bash
+npm i -g @nestjs/cli
 nest new vendas-online-backend
 npm install
 ```
